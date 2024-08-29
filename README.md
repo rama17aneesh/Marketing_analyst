@@ -26,14 +26,14 @@ Note:- always find a dataset that is there with data dictionary.
 Step 4 :- Data & Statistical Analysis
 Recent marketing campaigns have not been as effective as they were expected to be.
 
-Q1. Do customers buy products based on their income or based on the age group or based on the education level?
+Q1. Do customers buy products based on their income or based on the age group?
 Q2. Do customers purchase products through online store or store purchase?
 Q3. what and where to market our deals, so that customers visit store or online?
 The following independent variables will be focused on in the analysis:
 
 - income
 
-- education
+- complain and response
 
 - age.
 
